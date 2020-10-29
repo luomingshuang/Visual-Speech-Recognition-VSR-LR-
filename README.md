@@ -9,7 +9,7 @@ I am very happy to receive your messages. Hope my work can help you!
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
 </p>
 
-Please help contribute this list by contacting [me](739314837@qq.com) or add [pull request](https://github.com/luomingshuang/Cross-Modal-Pretraining-in-BERT/pulls)
+Please help contribute this list by contacting [me](739314837@qq.com) or add [pull request](https://github.com/luomingshuang/Visual-Speech-Recognition_VSR/pulls)
 
 Markdown format:
 ```markdown
