@@ -20,7 +20,11 @@ Markdown format:
 ```
 
 ## Table of Contents
+
+#### 2018
+- 【TPAMI】Deep Audio-Visual Speech Recognition.[[pdf]](https://arxiv.org/abs/1809.02108).[[code]](https://github.com/lordmartian/deep_avsr).   
+  *Triantafyllos Afouras, Joon Son Chung, Andrew Senior, Oriol Vinyals, Andrew Zisserman*
+
 #### 2016
 - 【Arxiv】LipNet:End-to-end sentence-level lipreading.[[pdf]](https://arxiv.org/pdf/1611.01599.pdf).[[code]](https://github.com/Fengdalu/LipNet-PyTorch).   
   *Yannis M. Assael, Brendan Shillingford, Shimon Whiteson & Nando de Freitas*
-- 
