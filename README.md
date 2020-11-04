@@ -21,6 +21,10 @@ Markdown format:
 
 ## Table of Contents
 
+#### 2020
+- 【ACM MM】A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild.[[pdf]](https://arxiv.org/abs/2008.10010).[[code]](https://github.com/luomingshuang/Wav2Lip).   
+  *K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar*
+
 #### 2018
 - 【TPAMI】Deep Audio-Visual Speech Recognition.[[pdf]](https://arxiv.org/abs/1809.02108).[[code]](https://github.com/lordmartian/deep_avsr).   
   *Triantafyllos Afouras, Joon Son Chung, Andrew Senior, Oriol Vinyals, Andrew Zisserman*
